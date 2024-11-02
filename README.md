@@ -2,6 +2,8 @@
 
 The Functional-cl library provides elementary utility functions for implementing Common Lisp software in a functional programming style. 
 
+This library was developed by M. Zala as part of a bachelor's thesis at Zurich University of Applied Sciences in 2022. 
+
 ## Overview
 
 Common Lisp is one of the languages that allow and encourage the functional programming style: The concepts of first-class functions and lambda functions have been part of the language since the beginning. Various aspects of functional programming have already been implemented in other CL-libraries (see [Other functional libraries](#other-functional-libraries)). However, none of these libraries offers a well-rounded collection of elementary auxiliary functions like currying or parameter handling. This is where Functional-cl comes into play.
